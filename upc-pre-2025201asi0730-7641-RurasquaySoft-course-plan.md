@@ -23,7 +23,6 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a la **creación 
 - **Consejos clave**:
   - Un sitio web se compone de **contenido (HTML)** y **estilo (CSS)**.
   - El navegador interpreta tu código y muestra el resultado visual.
-- **Empieza a programar**: [Abrir en CodePen](https://codepen.io/pen/?template=your-starter)
 
 ---
 
@@ -34,7 +33,7 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a la **creación 
 - **Consejos clave**:
   - Usa las etiquetas `<html>`, `<head>`, `<body>` para definir la estructura.
   - Dentro del `<body>` van tus contenidos visibles.
-- **Práctica**: [Clic para programar](https://codepen.io/your-lesson2) 👈 **¡No necesitas registrarte!**
+- **Práctica**: [Clic para programar](https://codepen.io/Marcelo-Bq_/pen/GgZKwNQ) 👈 **¡No necesitas registrarte!**
 
 ---
 
