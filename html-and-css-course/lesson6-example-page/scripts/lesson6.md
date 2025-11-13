@@ -1,6 +1,7 @@
+
 # Lección 6: Creación de una Página Web Básica
 
-**Objetivo:** Combinar los conocimientos de HTML (estructura, elementos) y CSS (estilos simples) para construir una página web completa y funcional, como una página de perfil personal.
+**Objetivo:** Combinar los conocimientos de HTML (estructura, elementos) y CSS (estilos simples) para construir una página web completa y funcional.
 
 ---
 
@@ -10,8 +11,6 @@
 
 Vamos a simular la creación de una "Página de Perfil". Este proyecto simple es perfecto para practicar cómo interactúan HTML y CSS.
 
-> 🏠 Si las lecciones anteriores fueron aprender a hacer ladrillos (HTML) y a pintar (CSS), esta lección es construir tu primera "casa" de un solo cuarto.
-
 ---
 
 ## Plan del Proyecto: Página de Perfil
@@ -20,18 +19,15 @@ Nuestra página de perfil tendrá los siguientes componentes:
 
 1.  Un contenedor principal (una "tarjeta").
 2.  Un título principal (p. ej., "Mi Perfil").
-3.  Una foto de perfil.
-4.  Un párrafo con una breve biografía.
-5.  Una lista de pasatiempos.
-6.  Un enlace a una red social.
-
-Crearemos dos archivos: `index.html` (para la estructura) y `estilos.css` (para el diseño).
+3.  Un párrafo con una breve biografía.
+4.  Una lista de pasatiempos.
+5.  Un enlace a una red social.
 
 ---
 
 ## Paso 1: La Estructura (index.html)
 
-Primero, creamos el archivo `index.html`. Fíjate bien en cómo usamos `<div>` para agrupar nuestro contenido en una "tarjeta" y cómo enlazamos nuestra hoja de estilos en el `<head>`.
+Primero, creamos el archivo `index.html`. Fíjate bien en cómo usamos `<div>` para agrupar nuestro contenido en una "tarjeta" y cómo enlazamos nuestra hoja de estilos.
 
 ```html
 <!DOCTYPE html>
@@ -49,8 +45,6 @@ Primero, creamos el archivo `index.html`. Fíjate bien en cómo usamos `<div>` p
   
     <h1>Mi Perfil</h1>
     
-    <img src="[https://via.placeholder.com/150](https://via.placeholder.com/150)" alt="Foto de perfil">
-    
     <h2>Juan Pérez</h2>
     
     <p>
@@ -65,7 +59,7 @@ Primero, creamos el archivo `index.html`. Fíjate bien en cómo usamos `<div>` p
       <li>Jugar videojuegos</li>
     </ul>
     
-    <a href="httpsPOST://[www.github.com](https://www.github.com)" target="_blank">
+    <a href="[https://www.github.com](https://www.github.com)" target="_blank">
       Visita mi GitHub
     </a>
     
@@ -73,15 +67,11 @@ Primero, creamos el archivo `index.html`. Fíjate bien en cómo usamos `<div>` p
 </html>
 ````
 
-> **Dato:** Estamos usando una imagen de marcador de posición (`https://via.placeholder.com/150`). ¡Puedes cambiar la URL `src` por un enlace a tu propia foto\!
-
 -----
 
 ## Paso 2: El Estilo (estilos.css)
 
-Ahora, creemos el archivo `estilos.css` en la misma carpeta. Aquí es donde aplicamos todo lo que aprendimos en la Lección 5.
-
-Usaremos la clase `.tarjeta-perfil` que definimos en nuestro HTML para darle estilo al contenedor principal.
+Ahora, aplicamos estilos. Usaremos la clase `.tarjeta-perfil` para darle forma al contenedor.
 
 ```css
 /* Estilos generales para toda la página */
@@ -103,28 +93,16 @@ body {
   background-color: #ffffff; /* Fondo blanco */
   border: 1px solid #ccc; /* Borde gris */
   
-  /* (Extra) Añadimos una sombra para que "flote" */
-  box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
-  
   /* (Extra) Añadimos espacio interno */
   padding: 20px;
+  
+  /* (Extra) Centramos el texto */
+  text-align: center;
 }
 
 /* Estilo para el título principal */
 h1 {
   color: #333;
-  text-align: center; /* Centramos el texto */
-}
-
-/* Estilo para la imagen */
-img {
-  /* (Truco) Las imágenes son "en línea", para centrarlas
-     las convertimos en "bloque" y usamos el truco del margen */
-  display: block;
-  margin: 0 auto;
-  
-  /* (Extra) Hacemos la imagen redonda */
-  border-radius: 50%;
 }
 
 /* Estilo para el enlace */
@@ -144,27 +122,14 @@ a:hover {
 
 ## ¡Tu Primera Página\!
 
-Si abres tu archivo `index.html` en un navegador, ahora deberías ver una página de perfil completa, centrada y con un diseño limpio.
+Si abres tu archivo `index.html` en un navegador, ahora deberías ver una página de perfil completa, centrada y con un diseño limpio, sin necesidad de imágenes.
 
 Has combinado con éxito:
 
-* La **estructura** HTML (Lección 2)
-* **Elementos comunes** como `h1`, `p`, `img`, `ul`, `a` (Lección 3)
-* **Selectores** CSS (Lección 4)
-* **Estilos simples** de color, bordes y centrado (Lección 5)
+* La **estructura** HTML.
+* **Elementos comunes** de texto y listas.
+* **Selectores** CSS.
+* **Estilos simples** de color, bordes y centrado.
 
-¡Felicidades\! Acabas de crear tu primera página web estática.
-
------
-
-### Desafío: Página de Blog
-
-¿Cómo adaptarías esto para una "entrada de blog"?
-
-* El `<h1>` sería el **título del artículo**.
-* El `<h2>` podría ser el **autor** o la **fecha**.
-* Los `<p>` serían los **párrafos del blog**.
-* Podrías tener una `<img>` principal al inicio del artículo.
-
-La estructura es la misma, ¡solo cambia el contenido\!
+<!-- end list -->
 
