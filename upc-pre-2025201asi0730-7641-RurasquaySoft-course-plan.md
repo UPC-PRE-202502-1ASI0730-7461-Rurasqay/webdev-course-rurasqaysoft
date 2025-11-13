@@ -10,7 +10,7 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a la **creación 
 **Prerrequisitos**: Ninguno  
 **Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari o Edge)
 
-**📂 Repositorio de código fuente**: [https://github.com/yourusername/webdev-course-teamname](https://github.com/yourusername/webdev-course-teamname)
+**📂 Repositorio de código fuente**: [https://github.com/UPC-PRE-202502-1ASI0730-7461-Rurasqay/webdev-course-rurasqaysoft](https://github.com/UPC-PRE-202502-1ASI0730-7461-Rurasqay/webdev-course-rurasqaysoft)
 
 ---
 
