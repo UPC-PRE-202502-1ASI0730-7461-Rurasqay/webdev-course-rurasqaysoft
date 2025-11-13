@@ -1,4 +1,4 @@
-# Lección 3: Introducción a CSS (Selectores, Propiedades y Diseño)
+# Lección 4: Introducción a CSS (Selectores, Propiedades y Diseño)
 
 **Objetivo:** Comprender qué es CSS, cómo se utiliza para dar estilo a una página web, y aprender los conceptos fundamentales de **selectores**, **propiedades** y **valores** para personalizar el color, la fuente y el diseño de los elementos HTML.
 
