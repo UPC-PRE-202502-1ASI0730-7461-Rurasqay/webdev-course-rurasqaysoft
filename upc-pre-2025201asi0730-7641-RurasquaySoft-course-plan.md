@@ -19,7 +19,7 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a la **creación 
 ### Lección 1: ¿Qué es el desarrollo web? (5 minutos)
 
 - **Descripción**: Aprende qué es un sitio web, cómo funciona y cuáles son sus partes principales (HTML, CSS y navegador).
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link1)
+- **Enlace**: [Ver la lección](https://youtu.be/scwUOypt78k)
 - **Consejos clave**:
   - Un sitio web se compone de **contenido (HTML)** y **estilo (CSS)**.
   - El navegador interpreta tu código y muestra el resultado visual.
@@ -29,7 +29,7 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a la **creación 
 ### Lección 2: Estructura básica de HTML (10 minutos)
 
 - **Descripción**: Crea tu primera página HTML desde cero y comprende su estructura principal.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link2)
+- **Enlace**: [Ver la lección](https://youtu.be/y3BNrxwzwVU)
 - **Consejos clave**:
   - Usa las etiquetas `<html>`, `<head>`, `<body>` para definir la estructura.
   - Dentro del `<body>` van tus contenidos visibles.
