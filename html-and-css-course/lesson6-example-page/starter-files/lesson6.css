@@ -1,0 +1,29 @@
+/* Dale estilos generales al body */
+body {
+    /* Sugerencia: Cambia la fuente (font-family) y pon un color de fondo suave */
+}
+
+/* Estila la tarjeta del perfil (la clase .tarjeta-perfil) */
+.tarjeta-perfil {
+    /* - Ponle un ancho fijo (ej. 300px) */
+    /* - Ponle un color de fondo blanco */
+    /* - Agrega un borde */
+    /* - Céntrala en la página (Recuerda el truco: margin: 0 auto) */
+    /* - Alinea el texto al centro */
+    /* - Agrega un poco de padding */
+}
+
+/* Estila la imagen */
+img {
+    /* Sugerencia: Intenta hacerla redonda usando border-radius: 50% */
+    /* Ajusta su ancho si es muy grande (ej. width: 150px) */
+}
+
+/* Dale color a tu nombre (h1) y al enlace (a) */
+h1 {
+
+}
+
+a {
+
+}
