@@ -49,10 +49,10 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a la **creación 
 
 ---
 
-### Lección 4: Introducción a CSS (12 minutos)
+### Lección 4: Introducción a CSS (5 minutos)
 
 - **Descripción**: Descubre cómo dar color, estilo y diseño a tus páginas con CSS.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link4)
+- **Enlace**: [Ver la lección](https://youtu.be/9TilxmRRNK4)
 - **Consejos clave**:
   - Usa selectores como `p { color: blue; }`.
   - Aplica propiedades de **color**, **fuente**, **alineación** y **bordes**.
