@@ -60,14 +60,15 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a la **creación 
 
 ---
 
-### Lección 5: Crear una página web básica (15 minutos)
+### Lección 5: Estilo Simple (15 minutos)
 
-- **Descripción**: Combina HTML y CSS para crear una página personal, como un perfil o una entrada de blog.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link5)
+- **Descripción**: Aprende a dar vida a tu HTML aplicando colores de fondo y texto, bordes personalizados y técnicas fundamentales para centrar contenido.
+- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=JmkTrJG9uow)
 - **Consejos clave**:
-  - Organiza tu HTML y aplica CSS para resaltar secciones.
-  - Experimenta con colores, fuentes y bordes.
-- **Proyecto Final**: [Crea tu Página de Perfil](https://replit.com/@your-final-project) 👈
+  - Usa `background-color` para fondos y `color` para el texto.
+  - Recuerda que para centrar una caja con `margin: 0 auto`, esta debe tener un `width` (ancho) definido.
+  - Diferencia bien cuándo usar `text-align: center` (para texto) y cuándo usar márgenes automáticos (para cajas).
+- **Ejercicio Práctico**: [Crea tu Tarjeta de Oferta](https://codepen.io/Diego-Rioja/pen/OPNVrEa?editors=1100) 👈
 
 ---
 
@@ -90,12 +91,12 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a la **creación 
 - **Todas las Actividades Prácticas**:
 
 | Lección # | Actividad                    | Empezar a Programar                           |
-| --------- | ---------------------------- | --------------------------------------------- |
+| --------- |------------------------------| --------------------------------------------- |
 | 1         | Explorar qué es un sitio web | [CodePen](https://codepen.io/your-lesson1)    |
 | 2         | Estructura básica HTML       | [CodePen](https://codepen.io/your-lesson2)    |
 | 3         | Añadir imágenes y enlaces    | [JSFiddle](https://jsfiddle.net/your-lesson3) |
-| 4         | Aplicar estilos CSS          | [CodePen](https://codepen.io/zgiknaeq-the-lessful/pen/EaKVKmb)    |
-| 5         | Crear tu página de perfil    | [CodePen](https://replit.com/@your-lesson5)    |
+| 4         | Aplicar estilos CSS          | [CodePen](https://codepen.io/your-lesson4)    |
+| 5         | Estilo simple                | [CodePen](https://codepen.io/Diego-Rioja/pen/OPNVrEa?editors=1100)    |
 | 6         | Crear tu página de perfil    | [CodePen](https://replit.com/@your-lesson5)    |
 
 - **Cuestionario final**: [Pon a prueba tus conocimientos](https://forms.gle/your-quiz)
