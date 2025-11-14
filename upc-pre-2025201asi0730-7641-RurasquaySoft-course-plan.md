@@ -70,9 +70,21 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a la **creación 
   - Diferencia bien cuándo usar `text-align: center` (para texto) y cuándo usar márgenes automáticos (para cajas).
 - **Ejercicio Práctico**: [Crea tu Tarjeta de Oferta](https://codepen.io/Diego-Rioja/pen/OPNVrEa?editors=1100) 👈
 
+
 ---
 
-### Lección 6: Recomendaciones y errores comunes (8 minutos)
+### Lección 6: Crear una página web básica (15 minutos)
+
+- **Descripción**: Combina HTML y CSS para crear una página personal, como un perfil o una entrada de blog.
+- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=aghVKEemnRk)
+- **Consejos clave**:
+  - Organiza tu HTML y aplica CSS para resaltar secciones.
+  - Experimenta con colores, fuentes y bordes.
+- **Proyecto Final**: [Crea tu Página de Perfil](https://codepen.io/Diego-Rioja/pen/vEGNKmO) 👈
+
+---
+
+### Lección 7: Recomendaciones y errores comunes (8 minutos)
 
 - **Descripción**: Aprende las mejores prácticas para escribir código limpio y evitar errores comunes.
 - **Enlace**: [Ver Lección](https://www.youtube.com/watch?v=example-link6)
@@ -97,7 +109,7 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a la **creación 
 | 3         | Añadir imágenes y enlaces    | [JSFiddle](https://jsfiddle.net/your-lesson3) |
 | 4         | Aplicar estilos CSS          | [CodePen](https://codepen.io/your-lesson4)    |
 | 5         | Estilo simple                | [CodePen](https://codepen.io/Diego-Rioja/pen/OPNVrEa?editors=1100)    |
-| 6         | Crear tu página de perfil    | [CodePen](https://replit.com/@your-lesson5)    |
+| 6         | Crear tu página de perfil    | [CodePen](https://codepen.io/Diego-Rioja/pen/vEGNKmO)    |
 
 - **Cuestionario final**: [Pon a prueba tus conocimientos](https://forms.gle/your-quiz)
 - **Compartir en redes**: #WebDevBeginners
