@@ -87,13 +87,10 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a la **creación 
 ### Lección 7: Recomendaciones y errores comunes (8 minutos)
 
 - **Descripción**: Aprende las mejores prácticas para escribir código limpio y evitar errores comunes.
-- **Enlace**: [Ver Lección](https://www.youtube.com/watch?v=example-link6)
+- **Enlace**: [Ver Lección](https://www.youtube.com/watch?v=6JPQyA4m82A)
 - **Consejos Clave**:
   - Cierra siempre tus etiquetas HTML correctamente.
   - Usa la indentación para mejorar la lectura del código.
-  - Valida tu código en [https://validator.w3.org](https://validator.w3.org).
-  - Consulta documentación en [MDN Web Docs](https://developer.mozilla.org/es/).
-- **Comparte tu Trabajo**: [Envía tu creación](https://forms.gle/your-form) **¡No es necesario registrarse!**
 
 ---
 
@@ -102,14 +99,14 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a la **creación 
 - **Código Fuente Completo**: [Repositorio de GitHub](https://github.com/yourusername/webdev-course-teamname)
 - **Todas las Actividades Prácticas**:
 
-| Lección # | Actividad                    | Empezar a Programar                           |
-| --------- |------------------------------| --------------------------------------------- |
-| 1         | Explorar qué es un sitio web | [CodePen](https://codepen.io/your-lesson1)    |
-| 2         | Estructura básica HTML       | [CodePen](https://codepen.io/your-lesson2)    |
-| 3         | Añadir imágenes y enlaces    | [JSFiddle](https://jsfiddle.net/your-lesson3) |
-| 4         | Aplicar estilos CSS          | [CodePen](https://codepen.io/your-lesson4)    |
-| 5         | Estilo simple                | [CodePen](https://codepen.io/Diego-Rioja/pen/OPNVrEa?editors=1100)    |
-| 6         | Crear tu página de perfil    | [CodePen](https://codepen.io/Diego-Rioja/pen/vEGNKmO)    |
+| Lección # | Actividad                    | Empezar a Programar                                                |
+|-----------|------------------------------|--------------------------------------------------------------------|
+| 1         | Explorar qué es un sitio web | [CodePen](https://codepen.io/your-lesson1)                         |
+| 2         | Estructura básica HTML       | [CodePen](https://codepen.io/your-lesson2)                         |
+| 3         | Añadir imágenes y enlaces    | [JSFiddle](https://jsfiddle.net/your-lesson3)                      |
+| 4         | Aplicar estilos CSS          | [CodePen](https://codepen.io/your-lesson4)                         |
+| 5         | Estilo simple                | [CodePen](https://codepen.io/Diego-Rioja/pen/OPNVrEa?editors=1100) |
+| 6         | Crear tu página de perfil    | [CodePen](https://codepen.io/Diego-Rioja/pen/vEGNKmO)              |
 
 - **Cuestionario final**: [Pon a prueba tus conocimientos](https://forms.gle/your-quiz)
 - **Compartir en redes**: #WebDevBeginners
