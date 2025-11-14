@@ -40,7 +40,7 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a la **creación 
 ### Lección 3: Elementos HTML comunes (10 minutos)
 
 - **Descripción**: Aprende a usar encabezados, párrafos, listas, imágenes y enlaces para crear contenido atractivo.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link3)
+- **Enlace**: [Ver la lección](https://youtu.be/29uStFtZuRo)
 - **Consejos clave**:
   - Usa `<h1>`–`<h6>` para títulos.
   - `<p>` para párrafos, `<ul>`/`<li>` para listas, `<img>` para imágenes y `<a>` para enlaces.
