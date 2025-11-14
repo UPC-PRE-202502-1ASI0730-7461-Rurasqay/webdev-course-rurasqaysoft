@@ -44,7 +44,7 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a la **creación 
 - **Consejos clave**:
   - Usa `<h1>`–`<h6>` para títulos.
   - `<p>` para párrafos, `<ul>`/`<li>` para listas, `<img>` para imágenes y `<a>` para enlaces.
-- **Práctica**: [Clic para programar](https://jsfiddle.net/your-fiddle-id) 👈 **¡Empieza al instante!**
+- **Práctica**: [Clic para programar](https://codepen.io/Marcelo-Bq_/pen/emZJPQg) 👈 **¡Empieza al instante!**
 
 ---
 
@@ -69,7 +69,6 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a la **creación 
   - Recuerda que para centrar una caja con `margin: 0 auto`, esta debe tener un `width` (ancho) definido.
   - Diferencia bien cuándo usar `text-align: center` (para texto) y cuándo usar márgenes automáticos (para cajas).
 - **Ejercicio Práctico**: [Crea tu Tarjeta de Oferta](https://codepen.io/Diego-Rioja/pen/OPNVrEa?editors=1100) 👈
-
 
 ---
 
@@ -96,19 +95,19 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a la **creación 
 
 ## Recursos Adicionales
 
-- **Código Fuente Completo**: [Repositorio de GitHub](https://github.com/yourusername/webdev-course-teamname)
+- **Código Fuente Completo**: [Repositorio de GitHub](https://github.com/UPC-PRE-202502-1ASI0730-7461-Rurasqay/webdev-course-rurasqaysoft)
 - **Todas las Actividades Prácticas**:
 
 | Lección # | Actividad                    | Empezar a Programar                                                |
-|-----------|------------------------------|--------------------------------------------------------------------|
-| 1         | Explorar qué es un sitio web | [CodePen](https://codepen.io/your-lesson1)                         |
-| 2         | Estructura básica HTML       | [CodePen](https://codepen.io/your-lesson2)                         |
-| 3         | Añadir imágenes y enlaces    | [JSFiddle](https://jsfiddle.net/your-lesson3)                      |
-| 4         | Aplicar estilos CSS          | [CodePen](https://codepen.io/your-lesson4)                         |
+| --------- | ---------------------------- | ------------------------------------------------------------------ |
+| 1         | Explorar qué es un sitio web |                                                                    |
+| 2         | Estructura básica HTML       | [CodePen](https://codepen.io/Marcelo-Bq_/pen/GgZKwNQ)                         |
+| 3         | Añadir imágenes y enlaces    | [CodePen](https://codepen.io/Marcelo-Bq_/pen/emZJPQg)                      |
+| 4         | Aplicar estilos CSS          | [CodePen](https://codepen.io/zgiknaeq-the-lessful/pen/EaKVKmb)                         |
 | 5         | Estilo simple                | [CodePen](https://codepen.io/Diego-Rioja/pen/OPNVrEa?editors=1100) |
 | 6         | Crear tu página de perfil    | [CodePen](https://codepen.io/Diego-Rioja/pen/vEGNKmO)              |
 
-- **Cuestionario final**: [Pon a prueba tus conocimientos](https://forms.gle/your-quiz)
+- **Cuestionario final**: [Pon a prueba tus conocimientos](https://docs.google.com/forms/d/e/1FAIpQLSdY95ykh25NYjUvb8_PTqhFiOAXmOxYD_fv4QYHD1hNWT_IXQ/viewform?usp=dialog)
 - **Compartir en redes**: #WebDevBeginners
 
 **¡Gracias por completar el curso! 🎉**
@@ -125,16 +124,15 @@ NRC: 7641
 
 #### **Nombre del equipo**: RurasqaySoft
 
-#### **Líder del equipo**: 
+#### **Líder del equipo**:
+
 Marcelo Barrientos Quispe
 
-
-**Integrantes del equipo**: 
+**Integrantes del equipo**:
 
 - Marcelo Barrientos Quispe
 - Gabriel Alejandro Rivera Ayala
-- Joaquin Antonio Cuba Pareja
 - Jarod Jack Cespedes Pillco
 - Franco Diego Rioja Nuñez
 
-**Fecha de entrega**: [Fecha]
+**Fecha de entrega**: 13/11/2025
