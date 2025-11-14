@@ -10,7 +10,7 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a la **creación 
 **Prerrequisitos**: Ninguno  
 **Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari o Edge)
 
-**📂 Repositorio de código fuente**: [https://github.com/yourusername/webdev-course-teamname](https://github.com/yourusername/webdev-course-teamname)
+**📂 Repositorio de código fuente**: [https://github.com/UPC-PRE-202502-1ASI0730-7461-Rurasqay/webdev-course-rurasqaysoft](https://github.com/UPC-PRE-202502-1ASI0730-7461-Rurasqay/webdev-course-rurasqaysoft)
 
 ---
 
@@ -19,87 +19,95 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a la **creación 
 ### Lección 1: ¿Qué es el desarrollo web? (5 minutos)
 
 - **Descripción**: Aprende qué es un sitio web, cómo funciona y cuáles son sus partes principales (HTML, CSS y navegador).
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link1)
+- **Enlace**: [Ver la lección](https://youtu.be/scwUOypt78k)
 - **Consejos clave**:
   - Un sitio web se compone de **contenido (HTML)** y **estilo (CSS)**.
   - El navegador interpreta tu código y muestra el resultado visual.
-- **Empieza a programar**: [Abrir en CodePen](https://codepen.io/pen/?template=your-starter)
 
 ---
 
 ### Lección 2: Estructura básica de HTML (10 minutos)
 
 - **Descripción**: Crea tu primera página HTML desde cero y comprende su estructura principal.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link2)
+- **Enlace**: [Ver la lección](https://youtu.be/y3BNrxwzwVU)
 - **Consejos clave**:
   - Usa las etiquetas `<html>`, `<head>`, `<body>` para definir la estructura.
   - Dentro del `<body>` van tus contenidos visibles.
-- **Práctica**: [Clic para programar](https://codepen.io/your-lesson2) 👈 **¡No necesitas registrarte!**
+- **Práctica**: [Clic para programar](https://codepen.io/Marcelo-Bq_/pen/GgZKwNQ) 👈 **¡No necesitas registrarte!**
 
 ---
 
 ### Lección 3: Elementos HTML comunes (10 minutos)
 
 - **Descripción**: Aprende a usar encabezados, párrafos, listas, imágenes y enlaces para crear contenido atractivo.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link3)
+- **Enlace**: [Ver la lección](https://youtu.be/29uStFtZuRo)
 - **Consejos clave**:
   - Usa `<h1>`–`<h6>` para títulos.
   - `<p>` para párrafos, `<ul>`/`<li>` para listas, `<img>` para imágenes y `<a>` para enlaces.
-- **Práctica**: [Clic para programar](https://jsfiddle.net/your-fiddle-id) 👈 **¡Empieza al instante!**
+- **Práctica**: [Clic para programar](https://codepen.io/Marcelo-Bq_/pen/emZJPQg) 👈 **¡Empieza al instante!**
 
 ---
 
-### Lección 4: Introducción a CSS (12 minutos)
+### Lección 4: Introducción a CSS (5 minutos)
 
 - **Descripción**: Descubre cómo dar color, estilo y diseño a tus páginas con CSS.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link4)
+- **Enlace**: [Ver la lección](https://youtu.be/9TilxmRRNK4)
 - **Consejos clave**:
   - Usa selectores como `p { color: blue; }`.
   - Aplica propiedades de **color**, **fuente**, **alineación** y **bordes**.
   - Vincula tu CSS con `<link rel="stylesheet" href="style.css">` o dentro de `<style>`.
-- **Práctica**: [Aplicar estilo con un clic](https://codepen.io/your-css-pen)
+- **Práctica**: [Aplicar estilo con un clic](https://codepen.io/zgiknaeq-the-lessful/pen/EaKVKmb)
 
 ---
 
-### Lección 5: Crear una página web básica (15 minutos)
+### Lección 5: Estilo Simple (15 minutos)
+
+- **Descripción**: Aprende a dar vida a tu HTML aplicando colores de fondo y texto, bordes personalizados y técnicas fundamentales para centrar contenido.
+- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=JmkTrJG9uow)
+- **Consejos clave**:
+  - Usa `background-color` para fondos y `color` para el texto.
+  - Recuerda que para centrar una caja con `margin: 0 auto`, esta debe tener un `width` (ancho) definido.
+  - Diferencia bien cuándo usar `text-align: center` (para texto) y cuándo usar márgenes automáticos (para cajas).
+- **Ejercicio Práctico**: [Crea tu Tarjeta de Oferta](https://codepen.io/Diego-Rioja/pen/OPNVrEa?editors=1100) 👈
+
+---
+
+### Lección 6: Crear una página web básica (15 minutos)
 
 - **Descripción**: Combina HTML y CSS para crear una página personal, como un perfil o una entrada de blog.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link5)
+- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=aghVKEemnRk)
 - **Consejos clave**:
   - Organiza tu HTML y aplica CSS para resaltar secciones.
   - Experimenta con colores, fuentes y bordes.
-- **Proyecto Final**: [Crea tu Página de Perfil](https://replit.com/@your-final-project) 👈
+- **Proyecto Final**: [Crea tu Página de Perfil](https://codepen.io/Diego-Rioja/pen/vEGNKmO) 👈
 
 ---
 
-### Lección 6: Recomendaciones y errores comunes (8 minutos)
+### Lección 7: Recomendaciones y errores comunes (8 minutos)
 
 - **Descripción**: Aprende las mejores prácticas para escribir código limpio y evitar errores comunes.
-- **Enlace**: [Ver Lección](https://www.youtube.com/watch?v=example-link6)
+- **Enlace**: [Ver Lección](https://www.youtube.com/watch?v=6JPQyA4m82A)
 - **Consejos Clave**:
   - Cierra siempre tus etiquetas HTML correctamente.
   - Usa la indentación para mejorar la lectura del código.
-  - Valida tu código en [https://validator.w3.org](https://validator.w3.org).
-  - Consulta documentación en [MDN Web Docs](https://developer.mozilla.org/es/).
-- **Comparte tu Trabajo**: [Envía tu creación](https://forms.gle/your-form) **¡No es necesario registrarse!**
 
 ---
 
 ## Recursos Adicionales
 
-- **Código Fuente Completo**: [Repositorio de GitHub](https://github.com/yourusername/webdev-course-teamname)
+- **Código Fuente Completo**: [Repositorio de GitHub](https://github.com/UPC-PRE-202502-1ASI0730-7461-Rurasqay/webdev-course-rurasqaysoft)
 - **Todas las Actividades Prácticas**:
 
-| Lección # | Actividad                    | Empezar a Programar                           |
-| --------- | ---------------------------- | --------------------------------------------- |
-| 1         | Explorar qué es un sitio web | [CodePen](https://codepen.io/your-lesson1)    |
-| 2         | Estructura básica HTML       | [CodePen](https://codepen.io/your-lesson2)    |
-| 3         | Añadir imágenes y enlaces    | [JSFiddle](https://jsfiddle.net/your-lesson3) |
-| 4         | Aplicar estilos CSS          | [CodePen](https://codepen.io/your-lesson4)    |
-| 5         | Crear tu página de perfil    | [CodePen](https://replit.com/@your-lesson5)    |
-| 6         | Crear tu página de perfil    | [CodePen](https://replit.com/@your-lesson5)    |
+| Lección # | Actividad                    | Empezar a Programar                                                |
+| --------- | ---------------------------- | ------------------------------------------------------------------ |
+| 1         | Explorar qué es un sitio web |                                                                    |
+| 2         | Estructura básica HTML       | [CodePen](https://codepen.io/Marcelo-Bq_/pen/GgZKwNQ)                         |
+| 3         | Añadir imágenes y enlaces    | [CodePen](https://codepen.io/Marcelo-Bq_/pen/emZJPQg)                      |
+| 4         | Aplicar estilos CSS          | [CodePen](https://codepen.io/zgiknaeq-the-lessful/pen/EaKVKmb)                         |
+| 5         | Estilo simple                | [CodePen](https://codepen.io/Diego-Rioja/pen/OPNVrEa?editors=1100) |
+| 6         | Crear tu página de perfil    | [CodePen](https://codepen.io/Diego-Rioja/pen/vEGNKmO)              |
 
-- **Cuestionario final**: [Pon a prueba tus conocimientos](https://forms.gle/your-quiz)
+- **Cuestionario final**: [Pon a prueba tus conocimientos](https://docs.google.com/forms/d/e/1FAIpQLSdY95ykh25NYjUvb8_PTqhFiOAXmOxYD_fv4QYHD1hNWT_IXQ/viewform?usp=dialog)
 - **Compartir en redes**: #WebDevBeginners
 
 **¡Gracias por completar el curso! 🎉**
@@ -116,16 +124,15 @@ NRC: 7641
 
 #### **Nombre del equipo**: RurasqaySoft
 
-#### **Líder del equipo**: 
+#### **Líder del equipo**:
+
 Marcelo Barrientos Quispe
 
-
-**Integrantes del equipo**: 
+**Integrantes del equipo**:
 
 - Marcelo Barrientos Quispe
 - Gabriel Alejandro Rivera Ayala
-- Joaquin Antonio Cuba Pareja
 - Jarod Jack Cespedes Pillco
 - Franco Diego Rioja Nuñez
 
-**Fecha de entrega**: [Fecha]
+**Fecha de entrega**: 13/11/2025

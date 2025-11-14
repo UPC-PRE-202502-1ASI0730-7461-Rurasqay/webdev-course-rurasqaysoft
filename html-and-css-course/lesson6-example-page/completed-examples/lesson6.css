@@ -1,0 +1,64 @@
+/* 1. Fondo general limpio */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f0f2f5; /* Gris muy suave */
+    margin-top: 50px;
+}
+
+/* 2. La tarjeta central */
+.tarjeta-profesional {
+    width: 400px;
+    margin: 0 auto; /* Centrado horizontal */
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 8px; /* Bordes redondeados */
+    padding: 40px;
+    text-align: center; /* Todo centrado */
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Sombra suave */
+}
+
+/* 3. Tipografía */
+h1 {
+    color: #2c3e50;
+    margin-bottom: 5px;
+}
+
+h2 {
+    color: #7f8c8d;
+    font-size: 18px;
+    font-weight: normal;
+    margin-top: 0;
+}
+
+p {
+    color: #555;
+    line-height: 1.6;
+}
+
+ul.lista-servicios {
+    list-style: none; /* Sin puntos */
+    padding: 0;
+    color: #444;
+}
+
+ul.lista-servicios li {
+    padding: 5px 0;
+    border-bottom: 1px solid #eee; /* Líneas separadoras sutiles */
+}
+
+/* 4. El enlace convertido en botón */
+.boton-contacto {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 25px;
+    background-color: #3498db; /* Azul */
+    color: white;
+    text-decoration: none;
+    border-radius: 20px; /* Botón redondeado */
+    font-weight: bold;
+    transition: background-color 0.3s;
+}
+
+.boton-contacto:hover {
+    background-color: #2980b9; /* Azul más oscuro al pasar el mouse */
+}

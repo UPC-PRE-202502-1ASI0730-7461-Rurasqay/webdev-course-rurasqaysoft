@@ -1,0 +1,29 @@
+/* TODO: 1. Estilos generales del Body */
+body {
+    /* Cambia la fuente y el color de fondo de toda la página */
+}
+
+/* TODO: 2. Estilos del Contenedor Principal (.tarjeta) */
+.tarjeta {
+    /* - Define un ancho fijo (width) */
+    /* - Céntralo en la página (margin: 0 auto) */
+    /* - Ponle un borde y un color de fondo */
+    /* - Agrega espacio interno (padding) */
+    /* - Centra el texto (text-align) */
+}
+
+/* TODO: 3. Estilos para los textos (h1, p, li) */
+h1 {
+    /* Cambia el color y tamaño */
+}
+
+ul {
+    /* Quita los puntos de la lista si quieres (list-style: none) */
+    /* Quita el padding izquierdo por defecto */
+}
+
+/* TODO: 4. Estilos para el enlace (botón) */
+a {
+    /* Quita el subrayado (text-decoration: none) */
+    /* Cambia el color y ponlo en negrita */
+}
