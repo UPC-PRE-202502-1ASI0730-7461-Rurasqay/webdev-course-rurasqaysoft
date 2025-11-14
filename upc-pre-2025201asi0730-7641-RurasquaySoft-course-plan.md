@@ -48,15 +48,15 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a la **creación 
 
 ---
 
-### Lección 4: Introducción a CSS (12 minutos)
+### Lección 4: Introducción a CSS (5 minutos)
 
 - **Descripción**: Descubre cómo dar color, estilo y diseño a tus páginas con CSS.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link4)
+- **Enlace**: [Ver la lección](https://youtu.be/9TilxmRRNK4)
 - **Consejos clave**:
   - Usa selectores como `p { color: blue; }`.
   - Aplica propiedades de **color**, **fuente**, **alineación** y **bordes**.
   - Vincula tu CSS con `<link rel="stylesheet" href="style.css">` o dentro de `<style>`.
-- **Práctica**: [Aplicar estilo con un clic](https://codepen.io/your-css-pen)
+- **Práctica**: [Aplicar estilo con un clic](https://codepen.io/zgiknaeq-the-lessful/pen/EaKVKmb)
 
 ---
 
@@ -94,7 +94,7 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a la **creación 
 | 1         | Explorar qué es un sitio web | [CodePen](https://codepen.io/your-lesson1)    |
 | 2         | Estructura básica HTML       | [CodePen](https://codepen.io/your-lesson2)    |
 | 3         | Añadir imágenes y enlaces    | [JSFiddle](https://jsfiddle.net/your-lesson3) |
-| 4         | Aplicar estilos CSS          | [CodePen](https://codepen.io/your-lesson4)    |
+| 4         | Aplicar estilos CSS          | [CodePen](https://codepen.io/zgiknaeq-the-lessful/pen/EaKVKmb)    |
 | 5         | Crear tu página de perfil    | [CodePen](https://replit.com/@your-lesson5)    |
 | 6         | Crear tu página de perfil    | [CodePen](https://replit.com/@your-lesson5)    |
 
