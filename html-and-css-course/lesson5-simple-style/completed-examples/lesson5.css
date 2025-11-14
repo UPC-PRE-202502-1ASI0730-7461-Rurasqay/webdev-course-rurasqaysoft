@@ -1,0 +1,41 @@
+/* PRÁCTICA LECCIÓN 5: Tarjeta de Oferta */
+
+/* PASO 3: Estilizamos la tarjeta principal.
+   Usaremos colores llamativos para una oferta.
+*/
+.tarjeta-oferta {
+    /* CENTRADO DEL BLOQUE:
+       Ancho fijo + márgenes automáticos a los lados */
+    width: 350px;
+    margin: 50px auto; /* 50px arriba/abajo, automático a los lados */
+
+    /* CENTRADO DEL TEXTO:
+       Alineamos todo el contenido interno al centro */
+    text-align: center;
+
+    /* COLORES Y BORDES:
+       Fondo amarillo claro y un borde naranja llamativo */
+    background-color: #fffacd; /* LemonChiffon */
+    border: 3px dashed #ff8c00; /* DarkOrange, estilo punteado */
+
+    /* ESPACIADO INTERNO (Padding):
+       Para que el texto no pegue con el borde (esto es un plus visual) */
+    padding: 20px;
+}
+
+/* PASO 4: Estilizamos el título para que resalte.
+*/
+.tarjeta-oferta h1 {
+    color: #d35400; /* Un tono calabaza fuerte */
+    font-family: sans-serif; /* Cambiamos la fuente para que se vea moderno */
+}
+
+/* PASO 5: Estilizamos el botón de acción (Call to Action).
+*/
+button {
+    background-color: #27ae60; /* Verde para indicar "éxito" o "acción" */
+    color: white; /* Texto blanco para contraste */
+    border: none; /* Quitamos el borde gris feo por defecto */
+    padding: 10px 20px; /* Hacemos el botón más grande */
+    cursor: pointer; /* Que aparezca la manito al pasar el mouse */
+}

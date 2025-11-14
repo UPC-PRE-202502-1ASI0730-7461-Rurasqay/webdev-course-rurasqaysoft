@@ -1,0 +1,12 @@
+body {
+  background-color: #f5f5f5;  
+  font-family: Arial, sans-serif;
+}
+
+p {
+  color: #333333;             
+  background-color: #d9eafd;  
+  margin: 20px;               
+  padding: 10px;             
+  border-radius: 6px;        
+}
