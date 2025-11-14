@@ -10,7 +10,7 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a la **creación 
 **Prerrequisitos**: Ninguno  
 **Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari o Edge)
 
-**📂 Repositorio de código fuente**: [https://github.com/yourusername/webdev-course-teamname](https://github.com/yourusername/webdev-course-teamname)
+**📂 Repositorio de código fuente**: [https://github.com/UPC-PRE-202502-1ASI0730-7461-Rurasqay/webdev-course-rurasqaysoft](https://github.com/UPC-PRE-202502-1ASI0730-7461-Rurasqay/webdev-course-rurasqaysoft)
 
 ---
 
@@ -19,22 +19,21 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a la **creación 
 ### Lección 1: ¿Qué es el desarrollo web? (5 minutos)
 
 - **Descripción**: Aprende qué es un sitio web, cómo funciona y cuáles son sus partes principales (HTML, CSS y navegador).
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link1)
+- **Enlace**: [Ver la lección](https://youtu.be/scwUOypt78k)
 - **Consejos clave**:
   - Un sitio web se compone de **contenido (HTML)** y **estilo (CSS)**.
   - El navegador interpreta tu código y muestra el resultado visual.
-- **Empieza a programar**: [Abrir en CodePen](https://codepen.io/pen/?template=your-starter)
 
 ---
 
 ### Lección 2: Estructura básica de HTML (10 minutos)
 
 - **Descripción**: Crea tu primera página HTML desde cero y comprende su estructura principal.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link2)
+- **Enlace**: [Ver la lección](https://youtu.be/y3BNrxwzwVU)
 - **Consejos clave**:
   - Usa las etiquetas `<html>`, `<head>`, `<body>` para definir la estructura.
   - Dentro del `<body>` van tus contenidos visibles.
-- **Práctica**: [Clic para programar](https://codepen.io/your-lesson2) 👈 **¡No necesitas registrarte!**
+- **Práctica**: [Clic para programar](https://codepen.io/Marcelo-Bq_/pen/GgZKwNQ) 👈 **¡No necesitas registrarte!**
 
 ---
 
@@ -49,15 +48,15 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a la **creación 
 
 ---
 
-### Lección 4: Introducción a CSS (12 minutos)
+### Lección 4: Introducción a CSS (5 minutos)
 
 - **Descripción**: Descubre cómo dar color, estilo y diseño a tus páginas con CSS.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link4)
+- **Enlace**: [Ver la lección](https://youtu.be/9TilxmRRNK4)
 - **Consejos clave**:
   - Usa selectores como `p { color: blue; }`.
   - Aplica propiedades de **color**, **fuente**, **alineación** y **bordes**.
   - Vincula tu CSS con `<link rel="stylesheet" href="style.css">` o dentro de `<style>`.
-- **Práctica**: [Aplicar estilo con un clic](https://codepen.io/your-css-pen)
+- **Práctica**: [Aplicar estilo con un clic](https://codepen.io/zgiknaeq-the-lessful/pen/EaKVKmb)
 
 ---
 
